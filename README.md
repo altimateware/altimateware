@@ -1,2 +1,2 @@
 # altimateware
-My Main Repository
+This is the main repository for Akaiwe
