@@ -1,2 +1,2 @@
 # altimateware
-This is the main repository for Akaiwe
+This is the main repository for Atimateware
